@@ -260,7 +260,7 @@ wheels = [
 ]
 
 [[package]]
-name = "module-equinox-cae"
+name = "modular-equinox-cae"
 version = "0.1.0"
 source = { virtual = "." }
 
